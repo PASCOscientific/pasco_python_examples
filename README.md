@@ -1,2 +1,2 @@
-# pasco_python_examples
+# PASCO Python Examples
 PASCO Python code examples and projects
